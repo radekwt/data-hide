@@ -1,0 +1,18 @@
+inode: 12
+Allocated
+Group: 0
+Generation Id: 1715250366
+uid / gid: 0 / 0
+mode: rrw-r--r--
+Flags: Extents, 
+size: 14651
+num of links: 1
+
+Inode Times:
+Accessed:	2023-12-10 20:01:31.088906949 (CET)
+File Modified:	2023-12-10 20:01:30.984904897 (CET)
+Inode Modified:	2023-12-10 20:01:30.984904897 (CET)
+File Created:	2023-12-10 20:00:19.119427260 (CET)
+
+Direct Blocks:
+33792 33793 33794 33795 
